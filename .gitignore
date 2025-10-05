@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Temporary files and logs
+*.log
+tmp/
+*.swp
+
+# Data files
+*.sqlite3
+*.csv
+*.json # If these are generated or temporary
+
+# Sensitive information (example)
+config.ini
+.env
